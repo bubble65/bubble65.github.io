@@ -130,7 +130,7 @@ redirect_from:
     </style>
 </head>
 <body>
-<h1 class="main-heading">Hi! I'm Jiahao. Welcome to my Homepage!</h1>
+<h1 class="main-heading">Hi! I'm bubble. Welcome to my Homepage!</h1>
 </body>
 </html>
 

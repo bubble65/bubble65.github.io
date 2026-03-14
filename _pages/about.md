@@ -141,7 +141,7 @@ I work at [IIR-Lab](http://www.thuir.cn/) at Renmin University of China. Previou
 
 📮 Feel free to reach out: [zhaojiahao2202@ruc.edu.cn](mailto:zhaojiahao2202@ruc.edu.cn) · [Google Scholar]()
 
-News
+<!-- News
 ---------------
 - *[Paragon]() is accepted at **RecSys 2025** as **Spotlight Oral Presentation** 🔥*
 - *[R1-Searcher++]() is accepted at **EMNLP 2025** 🔥*
@@ -289,7 +289,7 @@ Projects
         <a href="https://github.com/mannaandpoem/OpenManus"><em>[GitHub ⭐ 55k]</em></a>
     </div>
   </div>
-</div>
+</div> -->
 
 Awards
 --------

@@ -148,7 +148,7 @@ I work at [IIR-Lab](http://www.thuir.cn/) at Renmin University of China. Previou
 - *Awarded **National Scholarship** for 2023–2024 and 2024–2025 🏅* -->
 
 
-Publications
+<!-- Publications
 --------------
 <div class="pub-button-container">
   <button class="pub-button active" onclick="showPublications('all')">All Publications</button>
@@ -233,27 +233,16 @@ Publications
   </div>
 </div>
 
-<script src="assets/js/show_publications.js"></script>
+<script src="assets/js/show_publications.js"></script> -->
 
 Projects
 --------
 <div class="project-card">
   <div style="display: flex; align-items: center; padding: 10px;">
-    <img src="images/search_engine.png" alt="Search Engine" width="200" height="100" style="margin-right: 20px; border-radius: 8px; object-fit: cover;">
-    <div>
-        <strong>Campus Search Engine</strong><br>
-        A full-stack search engine crawling ~1M campus webpages and AI-domain content from Xiaohongshu, featuring a web frontend and an RAG-enhanced chatbot.<br>
-        <a href=""><em>[code]</em></a>
-    </div>
-  </div>
-</div>
-
-<div class="project-card">
-  <div style="display: flex; align-items: center; padding: 10px;">
     <img src="images/openmanus.png" alt="OpenManus" width="200" height="100" style="margin-right: 20px; border-radius: 8px; object-fit: cover;">
     <div>
-        <strong>OpenManus — Web Search Contributor</strong><br>
-        Contributed the web search functionality to OpenManus, an open-source general-purpose agent framework. The project has garnered <strong>55k+ GitHub stars</strong>.<br>
+        <strong>OpenManus' Contributor</strong><br>
+        Contributed to OpenManus, an open-source general-purpose agent framework. The project has garnered <strong>55k+ GitHub stars</strong>.<br>
         <a href="https://github.com/mannaandpoem/OpenManus"><em>[GitHub ⭐ 55k]</em></a>
     </div>
   </div>
@@ -287,7 +276,7 @@ Experience
           Research Intern at <a href="http://www.thuir.cn/"><em>THUIR Lab</em></a>
       </div>
   </div>
-  
+
 </div>
 
 Awards
@@ -295,5 +284,4 @@ Awards
 - **Outstanding Winner + COMAP Scholarship**, MCM 2024 (Rank 4 / 18,525 teams, $10,000)
 - **National Scholarship**, Renmin University of China, 2024–2025
 - **National Scholarship**, Renmin University of China, 2023–2024
-
 ---

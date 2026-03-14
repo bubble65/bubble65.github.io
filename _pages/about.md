@@ -145,39 +145,8 @@ I work at [IIR-Lab](http://www.thuir.cn/) at Renmin University of China. Previou
 - *[Paragon]() is accepted at **RecSys 2025** as **Spotlight Oral Presentation** 🔥*
 - *[R1-Searcher++]() is accepted at **EMNLP 2025** 🔥*
 - *Won **Outstanding Winner + COMAP Scholarship** (4/18525, $10,000) at MCM 2024 🏆*
-- *Awarded **National Scholarship** for 2023–2024 and 2024–2025 🏅*
+- *Awarded **National Scholarship** for 2023–2024 and 2024–2025 🏅* -->
 
-Experience
---------------
-<div class="experience-container">
-  <div class="experience-card">
-      <img src="images/bytedance.png" alt="ByteDance logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>ByteDance Seed</strong><br>
-          2024 - 2025<br>
-          AI Search Algorithm Intern at <a href="https://seed.bytedance.com/en/"><em>豆包大模型</em></a>
-      </div>
-  </div>
-
-  <div class="experience-card">
-      <img src="images/THU.png" alt="Tsinghua logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Tsinghua University</strong><br>
-          2023 - Now<br>
-          Research Intern at <a href="http://www.thuir.cn/"><em>THUIR Lab</em></a>
-      </div>
-  </div>
-
-  <div class="experience-card">
-      <img src="images/RUC.png" alt="RUC logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Renmin University of China</strong><br>
-          Sep 2022 - July 2026<br>
-          GPA 3.94/4.0, Rank <b>2/60</b>, <b>National Scholarship × 2</b><br>
-          B.E at <a href="http://ai.ruc.edu.cn/"><em>Gaoling School of AI</em></a>
-      </div>
-  </div>
-</div>
 
 Publications
 --------------
@@ -288,7 +257,38 @@ Projects
         <a href="https://github.com/mannaandpoem/OpenManus"><em>[GitHub ⭐ 55k]</em></a>
     </div>
   </div>
-</div> -->
+</div>
+
+Experience
+--------------
+<div class="experience-container">
+
+  <div class="experience-card">
+      <img src="images/IIRLAB.png" alt="IIR logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>A member of IIR-Lab, Renmin University of China</strong><br>
+      </div>
+  </div>
+
+  <div class="experience-card">
+      <img src="images/bytedance.png" alt="ByteDance logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>ByteDance Seed</strong><br>
+          2024 - 2025<br>
+          AI Search Algorithm Intern at <a href="https://seed.bytedance.com/en/"><em>豆包大模型</em></a>
+      </div>
+  </div>
+
+  <div class="experience-card">
+      <img src="images/THU.png" alt="Tsinghua logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>Tsinghua University</strong><br>
+          2024.10 - 2025.4<br>
+          Research Intern at <a href="http://www.thuir.cn/"><em>THUIR Lab</em></a>
+      </div>
+  </div>
+  
+</div>
 
 Awards
 --------

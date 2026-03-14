@@ -134,7 +134,7 @@ redirect_from:
 </body>
 </html>
 
-I am an undergraduate (2022–2026) at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), **Renmin University of China**. My research interests span **Information Retrieval**, **LLM Post-Training**.
+I am JiahaoZhao, an undergraduate (2022–2026) at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), **Renmin University of China**. My research interests span **Information Retrieval**, **LLM Post-Training**.
 
 I work at [IIR-Lab](http://www.thuir.cn/) at Renmin University of China. Previously, I interned at [ByteDance Seed](https://seed.bytedance.com/en/) as an AI Search Algorithm Intern.
 

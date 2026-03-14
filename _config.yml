@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Bubble"
 title_separator          : "-"
 name                     : &name "Jiahao Zhao"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,14 +23,20 @@ repository               : "bubble65/bubble65.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "head.png"
+  # name             : "Your Sidebar Name"
+  # pronouns         : # example: "she/her"  
+  # bio              : "Short biography for the left-hand sidebar"
+  # location         : "Earth"
+  # employer         : "Red Brick University"
+  # uri              : # URL
+  # email            : "none@example.org" 
+  name: "Jiahao Zhao"                   # 改掉 "Your Sidebar Name"
+  bio: "Undergrad @ RUC | IR & LLM"    # 改掉默认bio
+  location: "Beijing, China"
+  email: "zhaojiahao2202@ruc.edu.cn"
+  github: "bubble65"
+  googlescholar: ""
 
   # Academic websites
   academia         : # URL
